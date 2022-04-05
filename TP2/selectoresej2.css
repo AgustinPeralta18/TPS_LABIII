@@ -1,0 +1,51 @@
+/*teal, red, blue, orange, purple, olive, fuchsia y green.*/
+#titulo{
+    color:green ;
+}
+#subtitulo{
+    color: blue;
+}
+#adicional #especial{
+    color: fuchsia;
+}
+#adicional p{
+    color: olive;
+}
+#adicional a{
+    color: green;
+}
+.especial{
+    color: purple;
+}
+.destacado{
+    color: orange;
+}
+.remarcado{
+    color: red;
+}
+p a{
+    color: red;
+}
+table, tr, th, td{
+    border: black 1px solid;
+    border-spacing: 0;
+}
+td{
+    color: green;
+}
+caption{
+    color: blue;
+}
+p strong{
+    color: red;
+}
+strong{
+    color: orange;
+}
+tfoot tr th{
+    color: red;
+}
+p em{
+    color: blue;
+}
+
